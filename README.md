@@ -35,3 +35,10 @@ Please start the `ESP.Easy.Flasher.exe` again. You should now be able to selecte
 ## Wiring
 
 Now you can [wire](WIRERING_MHZ19B.md) the MHZ 19B Sensor
+
+## Booting the NodeMcu
+
+You can now boot the NodeMcu. You should now see a new WIFI-accesspoint called _ESP_Easy_0_.
+Enter the password _configesp_ to connect. If you're not automatically taken to the log-in page, browse to 192.168.4.1.
+
+Search for you routers WiFi and connect.
